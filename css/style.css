@@ -20,6 +20,11 @@ body {
 .mdl-textfield__error {
   color: lightgreen;
 }
+.wather-title{
+  margin-left: 1rem;
+  font-size: 1.7rem;
+  font-weight: 900;
+}
 
 .page-content {
   color: rgb(186, 34, 34);
@@ -28,6 +33,6 @@ body {
 }
 
 img {
-  float: right;
+  /* float: right; */
   height: 200px;
 }
