@@ -1,6 +1,6 @@
 // Copyright (c) 2020 Mr. Coxall All rights reserved
 //
-// Created by: Emre Guzel
+// Created by: Kyle Matthew
 // Created on: May 20 2025
 // This file contains the JS functions for index.html
 
